@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
-    private int waktu_loading=250;
+    private int waktu_loading=2500;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
