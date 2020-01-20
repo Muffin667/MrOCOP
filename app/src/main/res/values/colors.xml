@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <!-- MrOCOP theme. -->
+    <color name="Font">#EBE5DB</color>
+    <color name="palingTua">#27342A</color>
+    <color name="bawahTua">#354739</color>
+    <color name="MrOcop">#354739</color>
+    <color name="bawahOcop">#59685D</color>
+    <color name="palingMuda">#7E8981</color>
+    
+</resources>
